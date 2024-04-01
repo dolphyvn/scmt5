@@ -7,7 +7,7 @@
     -   Go to the chart where your strategy is applied.
     -   Click on the `Alert` button on the upper right side of the screen.
     -   Set the condition that matches your entry or exit strategy.
-    -   In the alert action settings, choose `Webhook URL` and enter your webhook URL formatted as `https://sc.oc.aliases.me/sc/mt5id`, replacing `mt5id` with your actual MT5 account ID.
+    -   In the alert action settings, choose `Webhook URL` and enter your webhook URL formatted as `https://sc.oc.aliases.me/tdv/mt5id`, replacing `mt5id` with your actual MT5 account ID.
 3.  **Webhook Message**: In the `Message` field of the alert, enter the syntax for your trading signal. For example:
     
     perlCopy code
