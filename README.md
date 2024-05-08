@@ -8,6 +8,7 @@
     -   Click on the `Alert` button on the upper right side of the screen.
     -   Set the condition that matches your entry or exit strategy.
     -   In the alert action settings, choose `Webhook URL` and enter your webhook URL formatted as `https://sc.oc.aliases.me/tdv/mt5id`, replacing `mt5id` with your actual MT5 account ID.
+    -   Go to https://signup.oc.aliases.me and signup your `mt5id` and select free from the list of broker. This will allow you to use our EA for free
 3.  **Webhook Message**: In the `Message` field of the alert, enter the syntax for your trading signal. For example:
     
     perlCopy code
